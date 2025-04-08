@@ -139,7 +139,7 @@ testcontainers = "0.23.1"
 testcontainers-modules = "0.11.3"
 thiserror = "2.0.10"
 tiberius = { version = "0.12.3", default-features = false }
-tokio = "1.43.0"
+tokio = "1.44.2"
 tokio-postgres = "0.7.12"
 tokio-util = "0.7.12"
 tracing = "0.1.41"
